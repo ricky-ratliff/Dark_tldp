@@ -1,17 +1,26 @@
 
+```     
+                    _______________________
+                   ( it's bright in here,  )
+                   ( let's dim the lights. )
+                    -----------------------
+                           o   
+                            o  ___       
+                              (.. \     
+                              (<> |     
+                             //  \ \     
+                            ( |  | /|     
+                           _/\ __)/_)       
+                           \/-____\/    
+                                                   
+    ▄▄▄▄               █             ▄  ▀▀█       █                             
+    █   ▀▄  ▄▄▄  ▄ ▄▄  █   ▄       ▄▄█▄▄  █    ▄▄▄█ ▄▄▄▄                        
+    █   ░█ ▀   █ █▀  ▀ █ ▄▀          █    █   █▀ ░█ █▀ ░█                       
+    █   ░█ ▄▀▀░█ █     ██░           █    █   █  ░█ █  ░█                       
+    █▄▄▄▀  ▀▄▄░█ █     █  ▀▄         █▄░  ▀▄▄ ▀█▄██ ██▄█▀.org                   
+                             ▀▀▀▀▀▀                 █                           
+                                                    ▀                           
 ```
-+                                                              +
-+   ▄▄▄▄               █             ▄  ▀▀█       █            +
-+   █   ▀▄  ▄▄▄  ▄ ▄▄  █   ▄       ▄▄█▄▄  █    ▄▄▄█ ▄▄▄▄       +
-+   █    █ ▀   █ █▀  ▀ █ ▄▀          █    █   █▀ ░█ █▀ ░█      +
-+   █   ░█ ▄▀▀░█ █     ██░           █    █   █  ░█ █  ░█      +
-+   █▄▄▄▀  ▀▄▄░█ █     █  ▀▄         ░▄█  ▀▄▄ ▀█▄██ ██▄█▀.org  +
-+                            ▀▀▀▀▀▀                 █          +
-+                                                   ▀          +
-```
-
-**Dark mode and other enhancements for [The Linux Documentation Project](https://tldp.org)**
-
 ## To Do
 - [ ] Test darker backgrounds
   - [ ] Sections with white backgrounds on home, guides, etc. pages
